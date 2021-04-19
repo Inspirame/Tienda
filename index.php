@@ -13,7 +13,7 @@
 <div id="menu"><br>
     <a href="index.html" id="menu">Inicio</a>
     <a href="tienda.html" id="menu">Tienda</a>
-    <a href="contacto.html" id="menu">Contacto</a></b>
+    <a href="https://inspirame.github.io/contacto/" id="menu">Contacto</a></b>
 </div></div>
   
   <a href="form1.html"><div class="container">
