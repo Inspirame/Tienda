@@ -25,7 +25,7 @@ body{
 }
 
 font{
-  color: #F4A647;
+  color: #e6ac00;
 }
 
 .container{
@@ -43,7 +43,7 @@ font{
 
 
 .item{
-  background-color: #F4A647;
+  background-color: #e6ac00;
   cursor: pointer;
   border-radius: 4px;
   box-shadow: 0 0 5px 0 rgba(0,0,0,.095);
@@ -58,11 +58,11 @@ a#menu{
   color: #fff;
   border-radius: 4px;
   font-size: 20px;
-  background-color: #F4A647;
+  background-color: #e6ac00;
 }
 
 div#menu{
-  background-color: #F4A647;
+  background-color: #e6ac00;
   height: 55px;
   border-radius: 4px;
 }
@@ -90,7 +90,7 @@ div#menu{
 }
 
 div#formcompra{
-  background-color: #F4A647;
+  background-color: #e6ac00;
   height: 480px;
   border-radius: 4px;
   width: 350px;
@@ -98,7 +98,7 @@ div#formcompra{
 
 button{
   background-color: #fff;
-  color: #F4A647;
+  color: #e6ac00;
   font-size: 20px;
   border-radius: 4px;
   border: none;
@@ -110,15 +110,15 @@ input{
   border-radius: 4px;
   border: none;
   padding: 8px;
-  color: #F4A647;
+  color: #e6ac00;
 }
 
 div#buttonllamada{
-  background-color: #F4A647;
+  background-color: #e6ac00;
   height: 55px;
   width: 185px;
   border-radius: 4px;
-  background-color: #F4A647;
+  background-color: #eee;
   cursor: pointer;
   border-radius: 4px;
   box-shadow: 0 0 5px 0 rgba(0,0,0,.095);
